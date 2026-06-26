@@ -24,8 +24,8 @@ Este projeto utiliza um modelo de **classificação de imagens** (ex: MobileNet,
 
 1. **Clonar o repositório:**
   ```bash
-   git clone https://github.com/teu-utilizador/teu-repositorio.git
-   cd teu-repositorio
+   git clone https://github.com/rsilva1977/keras_opencv.git
+   cd keras_opencv
   ```
 2. **Instalar as dependências:**
   ```bash
